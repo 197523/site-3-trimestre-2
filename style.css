@@ -8,7 +8,7 @@ header{
 
 .cartao_conteudo{
     padding: 20px;
-    border: 1px snow;
+    border: 1px rgb(29, 27, 27);
     border-radius: 2px;
     box-shadow: 0 4px 6px rgb(228, 225, 226)
     transition: transform 0.2;
