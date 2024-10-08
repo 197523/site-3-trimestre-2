@@ -10,12 +10,12 @@ header{
     padding: 20px;
     border: 1px rgb(29, 27, 27);
     border-radius: 2px;
-    box-shadow: 0 4px 6px rgb(228, 225, 226)
+    box-shadow: 0 4px 6px rgb(228, 225, 226);
     transition: transform 0.2;
     margin: 10px;
 }
 
-.cartao_conteudo: :hover{
+.cartao_conteudo:hover{
     transform: scale(1,05)
 }
 
