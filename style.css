@@ -1,0 +1,16 @@
+header{
+    background-color: lavender;
+    text-align: center;
+    font-size: 1.4vw;
+    padding: 10px;
+
+}
+
+.cartao_conteudo{
+    padding: 20px;
+    border: 1px snow;
+    border-radius: 2px;
+    box-shadow: 0 4px 6px rgb(228, 225, 226)
+    transition: transform 0.2;
+    margin: 10px;
+}
