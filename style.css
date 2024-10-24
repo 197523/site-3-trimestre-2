@@ -19,7 +19,7 @@ header{
     transform: scale(1.02)
 }
 
-.cartao_resposta{
+.cartao-resposta{
     display: none;
     text-align: center;
     padding: 20px;

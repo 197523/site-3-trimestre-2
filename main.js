@@ -1,5 +1,5 @@
 function mostraResposta(cartao_conteudo){
-    const resposta = cartao_conteudo.querySelector('.cartao_resposta')
+    const resposta = cartao_conteudo.querySelector('.cartao-resposta')
 
 if(resposta.style.display === 'none'){
      resposta.style.display == 'block'
